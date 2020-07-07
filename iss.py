@@ -4,7 +4,7 @@ import turtle
 import time
 
 
-__author__ = 'Jo Anna Mollman (jodi08 on github)'
+__author__ = 'Jo Anna Mollman (jodi08 on github) with help from Amanda Yonce'
 
 
 def get_current_astronauts():
